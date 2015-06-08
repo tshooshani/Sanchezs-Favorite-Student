@@ -1,0 +1,12 @@
+<h2 style="color:blue">Mr.</h2>
+<h2 style="color:red">Sanchez</h2>
+<h2 style="color:red">is</h2>
+<h2 style="color:red">a</h2>
+<h2 style="color:red">good</h2>
+<h2 style="color:red">teacher</h2>
+<h2 style="color:red">and</h2>
+<h2 style="color:red">he</h2>
+<h2 style="color:red">rocks</h2>
+<h2 style="color:red">at</h2>
+<h2 style="color:red">coding</h2>
+<h2 style="color:red">!!!</h2>
